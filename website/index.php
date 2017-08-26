@@ -41,7 +41,7 @@ require "connection.php";
 <a href="https://github.com/Anishka0107/Pocket-Diary">
 <img id="b1" src="Images\buttons.png" onMouseOver="func3();" onMouseOut="funca();" >
 </a>
-<label id="l1">Get the code</label>
+<label id="l1">Source</label>
 <a href="about.html">
 <img id="b2" src="Images\buttons.png" onMouseOver="func4();" onMouseOut="funcb();">
 </a>

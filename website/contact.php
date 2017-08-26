@@ -33,7 +33,7 @@ mail("rimjhim0107@gmail.com",$subject,$message,$headers);
 <input type="submit" id="pqpq" name="sub"/>
 </form>
 </div>
-<div id="footer">&copy; No Rights Reserved | Designed & Developed by Anishka</div>
+<div id="footer"> No Rights Reserved | Designed & Developed by Anishka</div>
 </body>
 <script src="JavaScript\jquery-1.11.3.js"></script>
 <script type="text/javascript" src="JavaScript\indexfile.js"></script>
